@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+patsy
+xgboost
+=======
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+lightgbm
+patsy
+jupyter
+>>>>>>> dc444a3 (Airbnb pricing models)
